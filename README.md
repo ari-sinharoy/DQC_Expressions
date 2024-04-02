@@ -9,3 +9,5 @@ File description:
 - finitepulse_kub.nb: Notebook containing code to calculate the DQC pulse sequence efficiency for finite pulses
 - UsefulFunctions.m: A package with some useful applications such as collecting and simplifying scalar coefficients by operators
 - TenSH.m: A package containing commutators and other properties of 10 spin-1/2 particles (originally created and distributed by John Marohn at Cornell University)  
+
+Reference: Aritro Sinha Roy, John A. Marohn, Jack H. Freed. An analysis of double-quantum coherence ESR in an N -spin system: Analytical expressions and predictions, The Journal of Chemical Physics (2024); DOI: 10.1063/5.0200054 
